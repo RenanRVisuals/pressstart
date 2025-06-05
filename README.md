@@ -1,4 +1,4 @@
-![Logo do projeto](./imagem/persopixels.png)
+![Logo do projeto]([./imagem/persopixels.png](https://github.com/RenanRVisuals/pressstart/blob/main/ep-01/imagem/persopixels.png))
 # 🎮 Press Start: O Jogo Antes do Jogo
 
 >ℹ️ NOTE: Este é um repositório desenvolvido como parte de um projeto na [DIO](https://www.dio.me/), com o objetivo de demonstrar a criação de prompts eficientes e o uso de IA na produção de um podcast.
