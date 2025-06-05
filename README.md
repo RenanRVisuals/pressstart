@@ -6,19 +6,19 @@ Este episódio único explora a evolução dos videogames, desde os primeiros pi
 
 
 
-# 💻 **Tecnologias utilizadas**
+# 💻 Tecnologias utilizadas
 
 - [Copilot](https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals?form=MA13YT&OCID=MA13YT) – Apoio na estruturação do projeto e refinamento de prompts
 - [ElevenLabs](https://elevenlabs.io/app/sign-in?redirect=%2Fapp%2Fspeech-synthesis%2Ftext-to-speech) – Geração de áudio e narração
 - [CapCut](https://www.capcut.com/pt-br) ou [Clipchamp](https://clipchamp.com/pt-br/) – Edição de áudio e remoção de pausas
 
-# ✨ **Como foi feito?**
+# ✨ Como foi feito?
 
 1.  Roteiro elaborado com Copilot.
 2.  Áudio produzido com ElevenLabs.
 3.  Edição final no CapCut ou Clipchamp, removendo pausas entre as falas, para ficar mais fluído.
 
-# 🛠️ **Instruções de execução**
+# 🛠️ Instruções de execução
 
 Utilize os prompts desenvolvidos neste projeto para recriar o podcast de forma automatizada:
 🤖 1. Gere o roteiro com Copilot
